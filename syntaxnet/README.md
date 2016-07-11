@@ -75,7 +75,7 @@ source. You'll need to install:
 *   python 2.7:
     * python 3 support is not available yet
 *   bazel:
-    *   **versions 0.2.0 - 0.2.2b[here](https://github.com/bazelbuild/bazel/releases/tag/0.2.2b), NOT 0.2.3**
+    *   **versions 0.2.0 - 0.2.2b [here](https://github.com/bazelbuild/bazel/releases/tag/0.2.2b), NOT 0.2.3**
     *   follow the instructions [here](http://bazel.io/docs/install.html)
 *   swig:
     *   `apt-get install swig` on Ubuntu
